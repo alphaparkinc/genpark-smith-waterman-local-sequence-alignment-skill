@@ -1,0 +1,19 @@
+{
+  "name": "genpark-smith-waterman-local-sequence-alignment-skill",
+  "version": "1.0.0",
+  "description": "Smith-Waterman dynamic programming local genomic sequence alignment with gap penalties and score matrix traceback",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "bioinformatics",
+    "sequence-alignment",
+    "smith-waterman",
+    "genomics",
+    "local-alignment",
+    "computational-biology",
+    "python-standard-library",
+    "agent-skills",
+    "dynamic-programming",
+    "dna-sequencing"
+  ]
+}
