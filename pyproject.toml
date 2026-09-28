@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-smith-waterman-local-sequence-alignment-skill"
+version = "1.0.0"
+description = "Smith-Waterman dynamic programming local genomic sequence alignment with gap penalties and score matrix traceback"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
