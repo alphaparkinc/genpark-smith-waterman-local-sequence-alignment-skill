@@ -1,0 +1,5 @@
+name: genpark-smith-waterman-local-sequence-alignment-skill
+description: Smith-Waterman dynamic programming local genomic sequence alignment with gap penalties and score matrix traceback
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
